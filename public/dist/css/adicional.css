@@ -1,0 +1,15 @@
+.rojo {
+    color: #d13d2f;
+    font-size: 1.7em;
+    padding: 10px;
+}
+
+.verde{
+    color: #36a56e;
+    font-size: 1.7em;
+    padding: 10px;
+}
+
+.fecha_actual {
+    font-size: 1.5em;
+}
